@@ -73,3 +73,22 @@ m.save("map.html")
 
 # 확장 : Live Server 설치
 # map.html 오른쪽 클릭 후, Open with Live Server 실행
+
+
+# Github
+
+# 터미널 
+# git init                                                                  # git 설정
+# git remote add origin https://github.com/Kim-Junghyeong/test.git          # 등록 위치
+# git status
+# git add .                                                                 # 모든 파일 등록
+# git status
+
+# git config --global user.name Kim-Junghyeong
+# git config --global user.email cxop2002@naver.com
+# git config user.name
+# git config user.email
+
+# git commit -m "첫번째 git hub"                                             # 저장 포인트
+# git push -f origin master                                                 # 파일 올리기
+#  
