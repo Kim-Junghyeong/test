@@ -92,3 +92,7 @@ m.save("map.html")
 # git commit -m "첫번째 git hub"                                             # 저장 포인트
 # git push -f origin master                                                 # 파일 올리기
 # 소스제어 사용하여 Git 올리기 가능 
+
+# git clone https://github.com/Kim-Junghyeong/test.git ./                                                          # 코드 복사 해당 폴더
+# git remote -v
+# git pull origin master
