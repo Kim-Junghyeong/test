@@ -9,7 +9,6 @@ data = {'분기': ['1분기', '2분기', '3분기', '4분기'],
         '서울 매출 (억원)': [300, 350, 420, 380],
         '부산 매출 (억원)': [250, 300, 380, 400]
         }
-print("hello")
 
 df = pd.DataFrame(data)
 
@@ -25,3 +24,7 @@ plt.title("지역별 분기 매출 테이블")
 plt.xlabel("분기")
 plt.ylabel("매출 (억원)")
 plt.show()
+
+print("hello")
+print("hello")
+print("hello")
